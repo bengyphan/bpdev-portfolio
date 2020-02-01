@@ -1,0 +1,23 @@
+{
+  "name": "bpdevportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengyphan/bpdev-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengyphan/bpdev-portfolio/issues"
+  },
+  "homepage": "https://github.com/bengyphan/bpdev-portfolio",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
